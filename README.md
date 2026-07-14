@@ -32,7 +32,7 @@ arisan-vue/
 
 1. Clone repository.
 
-git clone https://github.com/username/arisan-vue.git
+git clone https://github.com/EdwinAlfadin/Project-in-Vue-Basic.git
 
 2. Masuk ke folder project.
 
