@@ -1,6 +1,8 @@
-🎉 Aplikasi Arisan Vue.js
+🌐 Live Demo
 
-Live Demo https://edwinalfadin.github.io/Project-in-Vue-Basic/
+🔗 https://edwinalfadin.github.io/Project-in-Vue-Basic/
+
+🎉 Aplikasi Arisan Vue.js
 
 Aplikasi Arisan Vue.js adalah aplikasi sederhana untuk mengocok nama peserta secara acak. Dibangun menggunakan Vue.js 3, aplikasi ini cocok digunakan untuk arisan, undian doorprize, pembagian hadiah, maupun sebagai media belajar dasar Vue.js.
 
